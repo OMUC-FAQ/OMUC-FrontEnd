@@ -74,16 +74,6 @@
     </ul>
     <p>Ещё есть канал с книгами:</p>
     <ul>
-        <li><a href = "https://t.me/frontend_textbooks">Крупная база книг по Frontend.
-</a></li>
-        <li><a href = "https://t.me/progbook">@progbook</a></li>        
-    </ul>
-</div>
-<hr>
-<div>
-    <h2>Туториалы и статьи</h2>
-    <h4>На английском</h4>
-    <ul>
         <li><a>HTML</a>
             <ul>
                 <li><a href = "https://www.khanacademy.org/computing/computer-programming/html-css?ref=hackr.io">Intro to HTML/CSS: Marking webpages</a></li>
@@ -122,6 +112,19 @@
                 <li><a href = "https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/?ref=hackr.io">How Flexbox works - explained with big, colorful, animaged gifs</a></li>
                 <li><a href = "https://webdesign.tutsplus.com/categories/flexbox?ref=hackr.io">Web Design Tutorials</a></li>        
                 <li><a href = "https://www.htmldog.com/guides/css/advanced/?ref=hackr.io">CSS Advanced Tutorial</a></li>
+            </ul>
+        </li>
+        <li><a>Javascript</a>
+            <ul>
+                <li><a href = "http://bonsaiden.github.io/JavaScript-Garden/?ref=hackr.io">Javascript Garden</a></li>
+                <li><a href = "https://javascript.info/?ref=hackr.io">The Modern JavaScript Tutorial</a></li>
+                <li><a href = "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/">Introduction to JavaScript</a></li>
+                <li><a href = "https://javascript30.com/?ref=hackr.io">30 Day Vanilla JS Coding Challenge</a></li>
+                <li><a href = "https://scrimba.com/g/gintrotojavascript?ref=hackr.io">Introduction to JavaScript</a></li>
+                <li><a href = "https://learnjavascript.online/?ref=hackr.io">The easiest way to learn & practice modern JavaScript step by step</a></li>
+                <li><a href = "https://vanillajsguides.com/?ref=hackr.io">Everything you need to master JavaScript.</a></li>
+                <li><a href = "https://www.w3schools.com/js/default.asp?ref=hackr.io">Javascript Tutorial by w3schools</a></li>
+                <li><a href = "https://www.coderepublics.com/JavaScript/JavaScript-tutorial.php?ref=hackr.io">Javascript Tutorial by CodeRepublics</a></li>
             </ul>
         </li>        
     </ul>    
